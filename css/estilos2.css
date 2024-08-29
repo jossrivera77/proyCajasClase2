@@ -1,0 +1,43 @@
+*{margin: 0px;}
+.padre
+{
+    background-color: red;
+    padding: 20px;
+}
+.hijo
+{
+    background-color: yellow;
+    padding: 20px;
+}
+.nieto
+{
+    background-color: burlywood;
+    padding: 20px;
+}
+.bisnieto
+{
+    background-color: blueviolet;
+    padding: 20px;
+    margin: 10px;
+}
+.bisnieto1
+{
+    background-color: thistle;
+    padding: 20px;
+}
+.bisnieto2
+{
+    background-color: tan;
+    padding: 20px;
+}
+.bisnieto3
+{
+    background-color: red;
+    padding: 20px;
+}
+h1
+{
+    color: beige;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
